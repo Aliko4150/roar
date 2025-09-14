@@ -1,0 +1,7 @@
+paddleocr
+paddlepaddle
+torch
+torchvision
+transformers
+streamlit
+pillow
